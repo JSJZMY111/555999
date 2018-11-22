@@ -7,5 +7,5 @@ def foo():
 	bar()
 	print(b)
 foo()
-不同的
-新的
+
+你来自哪里
