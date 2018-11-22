@@ -8,3 +8,5 @@ def foo():
 	bar()
 	print(b)
 foo()
+不同的
+新的
